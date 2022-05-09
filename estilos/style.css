@@ -10,5 +10,16 @@ main{
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.471);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.323);
+}
+h1 {
+    color: rgb(33, 0, 80);
+    font-size: 30px;
+}
+h2{
+    color: rgb(33, 0, 80);
+    font-size: 25px;
+}
+img.lado{
+    float: right;
 }
